@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446015046414",
+    "project_id": "auss-7950d",
+    "storage_bucket": "auss-7950d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446015046414:android:5b5a9702b46210e6024d5f",
+        "android_client_info": {
+          "package_name": "com.example.aus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446015046414-66en81lo4213t2he4m5gofb214p32gsb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdxWJXUwiCFz81RRNk6qjnVo8sRViQYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446015046414-66en81lo4213t2he4m5gofb214p32gsb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
